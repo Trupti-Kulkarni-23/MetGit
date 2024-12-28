@@ -27,3 +27,5 @@ git remove
 git remove add origin link_of_respostries
 git remove -v
 git push -u origin master -f
+
+when ever * and green color file it show we are working in that branch 
