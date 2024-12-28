@@ -1,0 +1,24 @@
+git init
+git status
+git add index.html
+suppose new floder is created  git rm --cached * -r ...use for remove the floder inside floder mean all the file are remove
+
+git add -A
+git commit   ....for mulit line comment
+git commit -m "comment"
+git config --global user.name "Trupt-Kulkarni-23"
+git config --global user.email "truptik996@gmail.com"
+git log
+git reset commitid( 1403f12e3d916b5d6841cb77fbb6167aa0ee24fe)
+  here u find the commit id 
+    commit 1403f12e3d916b5d6841cb77fbb6167aa0ee24fe
+    Author: Trupti-Kulkarni-23 <truptik996@gmail.com>
+    Date:   Sat Dec 28 14:23:08 2024 +0530
+
+    first
+
+    git reset  1403f12e3d916b5d6841cb77fbb6167aa0ee24fe -hard ...remove the latest commited file and bring back to the first commited 
+
+head mean last commited branch 
+
+git show  ...detail difference more prescise than git diff
