@@ -22,3 +22,8 @@ git reset commitid( 1403f12e3d916b5d6841cb77fbb6167aa0ee24fe)
 head mean last commited branch 
 
 git show  ...detail difference more prescise than git diff
+
+git remove
+git remove add origin link_of_respostries
+git remove -v
+git push -u origin master -f
